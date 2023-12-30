@@ -38,7 +38,7 @@
     "updater": {
       "active": true,
       "dialog": false,
-      "endpoints": [" https://sy214.github.io/update.json"],
+      "endpoints": ["https://sy214.github.io/update.json"],
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDcxMEJERDEyNjgwQTI0MzgKUldRNEpBcG9FdDBMY1RvVWhPSHFYNHExSjAwaWhkSlZRR3ZJN0R6Q1RhcTVSMjBiQkhaaFcySFMK",
       "windows": {
         "installMode": "passive",
